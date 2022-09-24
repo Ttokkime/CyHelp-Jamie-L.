@@ -1,4 +1,4 @@
-
+The CyHelp bot informs the user about the CIA triad: confidentiality, integrity, and availability. It defines the term cybersecurity and returns to the user how long ago it has been since the date of cybersecurity's creation.  
 ### Project 
 My project:
 - Stores the user's input.
